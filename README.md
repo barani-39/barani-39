@@ -1,76 +1,141 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Baranidharan T S — Software Engineering and Applied AI" width="100%" />
-</p>
-
 <div align="center">
 
-# Baranidharan T S
+<img width="100%" src="./assets/profile-banner.svg" alt="Baranidharan T S — software engineering, applied AI, and backend systems" />
 
-### Software Engineering · Applied AI · Backend Systems
+<br/>
+
+<a href="https://autonvia.com"><img alt="AUTONVIA" src="https://img.shields.io/badge/AUTONVIA-Website-111827?style=for-the-badge&logo=vercel&logoColor=67E8F9" /></a>
+<a href="https://github.com/barani-39?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/EXPLORE-Public_Code-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a href="https://github.com/barani-39/safedose-nearmiss"><img alt="Review the SafeDose project" src="https://img.shields.io/badge/REVIEW-SafeDose_Code-111827?style=for-the-badge&logo=githubactions&logoColor=9B8CFF" /></a>
+
+<br/><br/>
 
 **B.E. Computer Science & Engineering · Class of 2028 · India**
 
-I build software that does more than demonstrate a concept — from multi-tenant SaaS platforms to supervised AI-agent workflows, with an emphasis on **security, reliability, and clear engineering trade-offs**.
+Building thoughtful software at the intersection of **backend engineering**, **applied AI**, and **SaaS**.
 
-[**AUTONVIA**](https://autonvia.com) · [**Public GitHub work**](https://github.com/barani-39?tab=repositories) · [**SafeDose NearMiss**](https://github.com/barani-39/safedose-nearmiss)
+<sub>Systems over buzzwords · Evidence over claims · Engineering over decoration</sub>
 
 </div>
 
 ---
 
-## 👨‍💻 What I work on
+### `01` &nbsp; ABOUT / WHAT I'M BUILDING
 
-I'm a computer science undergraduate building **AUTONVIA**, an AI automation and software engineering venture. My main interests are backend development, AI-agent systems, developer tooling, and full-stack products.
+<table>
+<tr>
+<td width="57%" valign="top">
 
-I enjoy problems involving authentication, databases, queues and background workers, API integrations, test automation, and making complex systems easier to operate.
+**Hey, I'm Baranidharan.** I study Computer Science and build software products through **[AUTONVIA](https://autonvia.com)**.
 
-## 🚀 Selected engineering projects
+My work involves multi-tenant applications, AI-agent systems, background jobs, authentication, API integration, local inference, and software verification.
 
-> **Transparency:** AUTONVIA's main product repositories are private and still evolving. The descriptions below refer to implemented or tested parts of those projects, not claims that every product is production-ready.
+I care about **reliability, security, and explainable engineering decisions**—including knowing when a product is still a prototype.
 
-| Project | Engineering focus | Current stage |
-| :-- | :-- | :-- |
-| **AUTONVIA AI Workforce** | Supervised AI-agent orchestration, approval gates, code-execution evidence, testing workflows | Active development · private source |
-| **AUTONVIA Social Studio** | Multi-platform publishing workflows, OAuth integrations, PostgreSQL, scheduled workers, API reliability | Working staging application · private source |
-| **AUTONVIA Sales OS** | Multi-tenant backend design, authorization, row-level security, API validation, AI-assisted sales workflows | Development and verification · private source |
-| **EDITH** | Local AI assistant, voice interfaces, memory, automation workflows | Functional prototype · private source |
-| **[SafeDose NearMiss](https://github.com/barani-39/safedose-nearmiss)** | Privacy-aware reporting, role-based workflows, auditability, automated testing | **Public academic prototype** · not for clinical use |
+</td>
+<td width="43%" valign="top">
 
-### Public code you can review
+```yaml
+profile:
+  focus: [Software Engineering, Applied AI]
+  building: AUTONVIA
+  languages: [Java, Python, TypeScript]
+  interests:
+    - Backend and distributed systems
+    - AI agents and developer tools
+    - Reliable SaaS infrastructure
+  graduation: 2028
+```
 
-**[SafeDose NearMiss →](https://github.com/barani-39/safedose-nearmiss)**  
-A safety-oriented academic prototype for structured reporting and operational review. Its repository includes architecture notes, test documentation, and a clearly stated non-clinical-use boundary.
+</td>
+</tr>
+</table>
 
-**[Explore repositories →](https://github.com/barani-39?tab=repositories)**  
-Additional commercial and experimental projects are developed privately; I'm preparing technical case studies and demonstrations that can be shared without exposing confidential code or credentials.
+### `02` &nbsp; SELECTED / ENGINEERING PROJECTS
 
-## 🧰 Technical toolkit
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/project-workforce.svg" width="100%" alt="AI Workforce: supervised agent workflows"/>
+<br/>
+<b>AUTONVIA AI Workforce</b> — approval gates, agent orchestration, Docker-based execution evidence, and verifiable engineering workflows.
+</td>
+<td width="50%" valign="top">
+<img src="./assets/project-social.svg" width="100%" alt="Social Studio: social publishing SaaS"/>
+<br/>
+<b>AUTONVIA Social Studio</b> — publishing workflows, PostgreSQL, job scheduling, authentication, and platform integrations.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/project-sales.svg" width="100%" alt="Sales OS: multi-tenant CRM backend"/>
+<br/>
+<b>AUTONVIA Sales OS</b> — multi-tenant backend design, row-level security, validated APIs, and AI-supported sales operations.
+</td>
+<td width="50%" valign="top">
+<img src="./assets/project-edith.svg" width="100%" alt="EDITH: local AI assistant"/>
+<br/>
+<b>EDITH</b> — local models, voice interfaces, persistent memory, and desktop automation foundations.
+</td>
+</tr>
+</table>
+</div>
 
-| Area | Technologies and concepts |
-| :-- | :-- |
-| **Languages** | Java · Python · TypeScript · JavaScript · SQL |
-| **Web & APIs** | React · Next.js · FastAPI · Express · REST APIs |
-| **Data & auth** | PostgreSQL · Firebase · Supabase · Row-level security |
-| **AI & automation** | LLM integrations · Tool-using agents · Local inference · Workflow orchestration |
-| **Engineering & infrastructure** | Git · GitHub · Docker · Cloudflare · Vercel · Automated tests |
+> **Engineering status:** The four product repositories above are private. Features described here are implemented or tested foundations, **not** claims of complete production readiness. Public case studies and reproducible demonstrations are being prepared.
 
-## 🔬 How I approach engineering
+### `03` &nbsp; PUBLIC / CODE YOU CAN INSPECT
 
-- **Build for real use:** start from a concrete user problem and verify the critical workflow.
-- **Make failures visible:** add tests, logs, recovery paths, and safe approval boundaries.
-- **Protect data:** apply least-privilege access and isolate users, credentials, and workloads.
-- **Be precise about readiness:** distinguish prototypes, tested features, and production deployments.
+<a href="https://github.com/barani-39/safedose-nearmiss"><img src="https://img.shields.io/badge/SAFE DOSE-OPEN SOURCE PROJECT-122A3B?style=for-the-badge&logo=github&logoColor=7CE8F4" alt="SafeDose NearMiss public repository"/></a>
 
-## 🎯 Current focus
+**[SafeDose NearMiss](https://github.com/barani-39/safedose-nearmiss)** — a privacy-aware academic reporting prototype with role-based workflows, audit records, automated testing documentation, and explicit safety boundaries. **Not for clinical use.** Its documented test claims are provided in the repository; they are not independently certified.
 
-- Strengthening **Java DSA, system design, DBMS, operating systems, and networking**.
-- Improving my practical skills in **backend architecture and applied AI engineering**.
-- Preparing for **2027 internships and 2028 new-graduate software engineering opportunities**.
+**[CodeGenome-AI](https://github.com/barani-39/CodeGenome-AI)** — an early-stage public repository exploring software intelligence and code understanding. Work in progress.
+
+### `04` &nbsp; TOOLKIT / TECHNOLOGIES
 
 <div align="center">
 
-**Interested in software engineering, AI infrastructure, or developer tools?**
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,react,nextjs,nodejs,fastapi,postgres,docker,git,github,vercel,firebase,supabase&perline=8&theme=dark" alt="Java, Python, TypeScript, JavaScript, React, Next.js, Node.js, FastAPI, PostgreSQL, Docker, Git, GitHub, Vercel, Firebase, and Supabase" />
 
-[Explore AUTONVIA](https://autonvia.com) · [Review my public code](https://github.com/barani-39?tab=repositories)
+</div>
+
+| Area | Working with |
+| :-- | :-- |
+| **Software development** | Java · Python · TypeScript · JavaScript · SQL |
+| **Frontend and backend** | React · Next.js · FastAPI · Express · REST APIs |
+| **Data and security** | PostgreSQL · Firebase · Supabase · RLS · Authentication |
+| **AI engineering** | LLM integration · Agent workflows · Local inference · Tool calling |
+| **Delivery and quality** | Git · GitHub · Docker · Vercel · Cloudflare · Automated testing |
+
+### `05` &nbsp; ENGINEERING / PRINCIPLES
+
+<table>
+<tr>
+<td width="50%"><b>01. Verify what ships</b><br/>Tests, reproducible behavior, and honest readiness labels.</td>
+<td width="50%"><b>02. Design for failure</b><br/>Timeouts, retries, safe approvals, and observability.</td>
+</tr>
+<tr>
+<td width="50%"><b>03. Keep boundaries strong</b><br/>Least privilege, tenant isolation, and credential hygiene.</td>
+<td width="50%"><b>04. Build for real users</b><br/>Useful workflows, maintainable architecture, and thoughtful UX.</td>
+</tr>
+</table>
+
+### `06` &nbsp; NEXT / ENGINEERING MILESTONES
+
+- Deepening **Java DSA**, DBMS, OS, networking, and system design fundamentals.
+- Producing **sanitized architecture case studies** and live demonstrations of selected private projects.
+- Preparing for **2027 internships** and **2028 graduate software engineering / applied AI roles**.
+
+---
+
+<div align="center">
+
+### Building systems that work beyond the demo.
+
+<a href="https://autonvia.com"><img src="https://img.shields.io/badge/EXPLORE-AUTONVIA-0B1626?style=for-the-badge&logo=vercel&logoColor=66E6F5" alt="Explore AUTONVIA" /></a>
+<a href="https://github.com/barani-39?tab=repositories"><img src="https://img.shields.io/badge/VIEW-PUBLIC REPOSITORIES-0B1626?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View repositories" /></a>
+
+<sub>© Baranidharan T S · Built with intention, improved with evidence.</sub>
 
 </div>
