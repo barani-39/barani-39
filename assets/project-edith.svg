@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="248" viewBox="0 0 600 248" role="img" aria-label="EDITH technical project card">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1727"/><stop offset="1" stop-color="#11162b"/></linearGradient>
+<radialGradient id="g"><stop stop-color="#a0a3ff" stop-opacity=".23"/><stop offset="1" stop-color="#a0a3ff" stop-opacity="0"/></radialGradient>
+<pattern id="p" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#729bc1" stroke-opacity=".09"/></pattern></defs>
+<rect x="1" y="1" width="598" height="246" rx="18" fill="url(#b)" stroke="#a0a3ff" stroke-opacity=".47" stroke-width="2"/>
+<rect width="598" height="246" rx="18" fill="url(#p)"/>
+<ellipse cx="480" cy="125" rx="190" ry="140" fill="url(#g)"/>
+<path d="M28 23H92" stroke="#a0a3ff" stroke-width="3" stroke-linecap="round"/>
+<text x="28" y="52" font-family="Consolas,monospace" font-size="12" letter-spacing="1.4" fill="#a0a3ff">04 / LOCAL AI ASSISTANT</text>
+<text x="28" y="105" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="#f2f6ff">EDITH</text>
+<text x="29" y="140" font-family="Arial,sans-serif" font-size="16" fill="#aec1d9">Voice interactions, local models,</text>
+<text x="29" y="162" font-family="Arial,sans-serif" font-size="16" fill="#aec1d9">memory and desktop automation</text>
+<rect x="27" y="191" width="253" height="32" rx="9" fill="#1b2a40" stroke="#39506a"/>
+<circle cx="45" cy="207" r="4" fill="#a0a3ff"/>
+<text x="59" y="212" font-family="Consolas,monospace" font-size="12" fill="#d1e0f1">FUNCTIONAL PROTOTYPE · PRIVATE</text>
+<circle cx="445" cy="125" r="81" fill="none" stroke="#886ee7" stroke-width="1.5" stroke-dasharray="5 8"/><circle cx="445" cy="125" r="63" fill="#161a39" stroke="#9b83f3" stroke-width="3"/><circle cx="445" cy="125" r="41" fill="#211d46" stroke="#6ee4ee" stroke-width="2"/><circle cx="445" cy="125" r="18" fill="#78e4ef" fill-opacity=".12" stroke="#79e7ee" stroke-width="2"/>
+<path d="M380 125h14l8-17 8 33 9-26 9 9 8-20 9 43 8-21h29" fill="none" stroke="#a4f2f5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="510" cy="70" r="5" fill="#b49cfb"/><circle cx="383" cy="175" r="4" fill="#6cdee9"/></svg>
