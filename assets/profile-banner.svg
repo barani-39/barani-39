@@ -1,38 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
-  <title id="title">Baranidharan T S — Software Engineering and Applied AI</title>
-  <desc id="desc">Dark navy technical banner with cyan and violet highlights, software engineering text, and a schematic network graphic.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08111f"/><stop offset="1" stop-color="#101a32"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#66e6f5"/><stop offset="1" stop-color="#a18dff"/></linearGradient>
-    <radialGradient id="glow"><stop stop-color="#4354dc" stop-opacity=".28"/><stop offset="1" stop-color="#4354dc" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#526b94" stroke-opacity=".13" stroke-width="1"/></pattern>
-  </defs>
-  <rect width="1200" height="310" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="310" rx="18" fill="url(#grid)"/>
-  <ellipse cx="1020" cy="135" rx="360" ry="240" fill="url(#glow)"/>
-  <path d="M0 305H1200" stroke="url(#accent)" stroke-width="5"/>
-  <rect x="54" y="42" width="11" height="11" rx="2" fill="#65dbed"/>
-  <text x="76" y="52" fill="#9db6d6" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="2.8">AUTONVIA  /  ENGINEERING</text>
-  <text x="52" y="130" fill="#f3f8ff" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-.6">Baranidharan T S</text>
-  <rect x="53" y="154" width="395" height="3" rx="1.5" fill="url(#accent)"/>
-  <text x="52" y="198" fill="#b4c9e7" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing=".4">Software Engineering  ·  Applied AI</text>
-  <text x="52" y="236" fill="#85a2c5" font-family="Segoe UI, Arial, sans-serif" font-size="16">BACKEND SYSTEMS   /   AGENT WORKFLOWS   /   SAAS</text>
-  <text x="53" y="278" fill="#6f8dab" font-family="Consolas, Courier New, monospace" font-size="13">// build with purpose. verify the behavior.</text>
-  <g fill="none" stroke-width="1.8">
-    <path d="M777 86L855 55 937 92 1016 54 1102 102" stroke="#67e3f0" stroke-opacity=".42"/>
-    <path d="M777 86L807 177 910 155 937 92 1045 185 1102 102" stroke="#98a6fa" stroke-opacity=".45"/>
-    <path d="M807 177L885 251 996 242 1045 185 1123 235" stroke="#67e3f0" stroke-opacity=".36"/>
-    <path d="M855 55L910 155 1016 54 1045 185 996 242 937 92" stroke="#596edb" stroke-opacity=".38"/>
-  </g>
-  <g fill="#0b2035" stroke="#6be0ed" stroke-width="2">
-    <circle cx="777" cy="86" r="7"/><circle cx="855" cy="55" r="7"/><circle cx="807" cy="177" r="7"/>
-    <circle cx="910" cy="155" r="9"/><circle cx="996" cy="242" r="7"/><circle cx="1102" cy="102" r="7"/>
-  </g>
-  <g fill="#0d1b39" stroke="#ac9aff" stroke-width="2">
-    <circle cx="937" cy="92" r="9"/><circle cx="1016" cy="54" r="7"/><circle cx="1045" cy="185" r="9"/>
-    <circle cx="885" cy="251" r="7"/><circle cx="1123" cy="235" r="7"/>
-  </g>
-  <rect x="788" y="115" width="275" height="37" rx="8" fill="#0b142b" stroke="#395479" stroke-opacity=".85"/>
-  <circle cx="805" cy="133" r="4" fill="#68dbe9"/>
-  <text x="817" y="138" fill="#a9c1dc" font-family="Consolas, Courier New, monospace" font-size="13">system.build(verify=True)</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Baranidharan T S — Software Engineer, Applied AI and Backend Systems</title>
+<desc id="desc">Premium dark engineering dashboard banner with code-inspired interface, cyan and purple gradients, and a technical system-flow diagram.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".52" stop-color="#0b1729"/><stop offset="1" stop-color="#100e27"/></linearGradient>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#67e8f9"/><stop offset=".55" stop-color="#6aa9ff"/><stop offset="1" stop-color="#af86ff"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#172742"/><stop offset="1" stop-color="#0b1426"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#513eac" stop-opacity=".44"/><stop offset="1" stop-color="#513eac" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#9bcaff" stroke-opacity=".075"/></pattern>
+<filter id="soft"><feGaussianBlur stdDeviation="14"/></filter>
+</defs>
+<rect x="1" y="1" width="1198" height="388" rx="22" fill="url(#bg)" stroke="#385574" stroke-opacity=".65" stroke-width="2"/>
+<rect x="2" y="2" width="1196" height="386" rx="22" fill="url(#grid)"/>
+<ellipse cx="1038" cy="166" rx="255" ry="245" fill="url(#halo)"/>
+<path d="M22 388H1178" stroke="url(#neon)" stroke-width="3"/>
+<circle cx="38" cy="26" r="5" fill="#fa6572"/><circle cx="57" cy="26" r="5" fill="#f6c55b"/><circle cx="76" cy="26" r="5" fill="#58d7ab"/>
+<text x="103" y="31" fill="#6684a8" font-size="12" font-family="Consolas,monospace" letter-spacing="1.6">PROFILE / ENGINEERING</text>
+<text x="1133" y="31" fill="#6f8ead" text-anchor="end" font-size="12" font-family="Consolas,monospace">2028 / INDIA</text>
+<path d="M22 48H1178" stroke="#47688a" stroke-opacity=".5"/>
+<rect x="47" y="79" width="9" height="9" rx="1.5" fill="#70ebf5"/>
+<text x="67" y="89" fill="#82c8d8" font-size="15" font-family="Consolas,monospace" letter-spacing="2">BUILDER  •  AUTONVIA FOUNDER</text>
+<text x="44" y="157" fill="#f4f8ff" font-size="57" font-family="Arial,sans-serif" font-weight="800" letter-spacing="-1.3">Baranidharan T S</text>
+<text x="47" y="203" fill="url(#neon)" font-size="26" font-family="Arial,sans-serif" font-weight="700" letter-spacing=".2">Software Engineering × Applied AI</text>
+<text x="47" y="246" fill="#b0c3df" font-size="17" font-family="Arial,sans-serif">Building secure SaaS platforms, AI agent workflows,</text>
+<text x="47" y="270" fill="#b0c3df" font-size="17" font-family="Arial,sans-serif">and backend systems that can be tested and trusted.</text>
+<rect x="46" y="309" width="170" height="36" rx="10" fill="#102b39" stroke="#287283"/>
+<circle cx="64" cy="327" r="4" fill="#67e8f9"/>
+<text x="76" y="332" fill="#c4f8ff" font-family="Consolas,monospace" font-size="14">JAVA + PYTHON</text>
+<rect x="228" y="309" width="168" height="36" rx="10" fill="#211b3c" stroke="#59477f"/>
+<circle cx="246" cy="327" r="4" fill="#bd9cff"/>
+<text x="258" y="332" fill="#dfceff" font-family="Consolas,monospace" font-size="14">TYPESCRIPT</text>
+<rect x="408" y="309" width="140" height="36" rx="10" fill="#132438" stroke="#36577e"/>
+<circle cx="426" cy="327" r="4" fill="#80aafa"/>
+<text x="438" y="332" fill="#b9d6ff" font-family="Consolas,monospace" font-size="14">POSTGRESQL</text>
+<rect x="713" y="76" width="440" height="259" rx="16" fill="url(#glass)" stroke="#516c91"/>
+<rect x="713" y="76" width="440" height="38" rx="16" fill="#1c2c49" opacity=".9"/>
+<rect x="713" y="98" width="440" height="16" fill="#1c2c49" opacity=".9"/>
+<circle cx="733" cy="96" r="4" fill="#6ae0ed"/><text x="748" y="101" fill="#a7bfdf" font-family="Consolas,monospace" font-size="13">workflow.graph</text>
+<text x="1129" y="101" fill="#718dab" text-anchor="end" font-family="Consolas,monospace" font-size="12">verified-first</text>
+<path d="M778 176H860M926 176H1002" stroke="#6bdceb" stroke-width="2.4" stroke-dasharray="5 5"/>
+<path d="M1068 197V246H774V197" stroke="#826fde" stroke-width="2" stroke-opacity=".65" fill="none"/>
+<rect x="736" y="144" width="92" height="65" rx="12" fill="#102d3c" stroke="#2c7b8d"/>
+<rect x="860" y="144" width="92" height="65" rx="12" fill="#201d40" stroke="#6b60b3"/>
+<rect x="984" y="144" width="143" height="65" rx="12" fill="#14263f" stroke="#486e9b"/>
+<text x="782" y="173" font-size="14" text-anchor="middle" font-family="Consolas,monospace" fill="#8df1ff">PLAN</text>
+<text x="782" y="191" font-size="10" text-anchor="middle" font-family="Consolas,monospace" fill="#638fa3">scope</text>
+<text x="906" y="173" font-size="14" text-anchor="middle" font-family="Consolas,monospace" fill="#ceadff">BUILD</text>
+<text x="906" y="191" font-size="10" text-anchor="middle" font-family="Consolas,monospace" fill="#8579b8">implement</text>
+<text x="1056" y="173" font-size="14" text-anchor="middle" font-family="Consolas,monospace" fill="#a9d1ff">VERIFY</text>
+<text x="1056" y="191" font-size="10" text-anchor="middle" font-family="Consolas,monospace" fill="#7495b7">tests + review</text>
+<rect x="736" y="260" width="391" height="52" rx="9" fill="#071322" stroke="#294564"/>
+<text x="756" y="280" font-family="Consolas,monospace" font-size="13" fill="#7bffcf">$ engineering --mode evidence</text>
+<text x="756" y="299" font-family="Consolas,monospace" font-size="12" fill="#7f9cba">design  /  test  /  improve_</text>
 </svg>
