@@ -51,38 +51,13 @@ profile:
 </tr>
 </table>
 
-### `02` &nbsp; SELECTED / ENGINEERING PROJECTS
+<p align="center">
+  <img src="./assets/selected-engineering-projects-showcase.jpg" width="100%" alt="Concept showcase of four projects: AI Workforce, Social Studio, Sales OS, and EDITH. Stylized illustrative interfaces, not verified app screenshots." />
+</p>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/project-workforce.svg" width="100%" alt="AI Workforce: supervised agent workflows"/>
-<br/>
-<b>AUTONVIA AI Workforce</b> — approval gates, agent orchestration, Docker-based execution evidence, and verifiable engineering workflows.
-</td>
-<td width="50%" valign="top">
-<img src="./assets/project-social.svg" width="100%" alt="Social Studio: social publishing SaaS"/>
-<br/>
-<b>AUTONVIA Social Studio</b> — publishing workflows, PostgreSQL, job scheduling, authentication, and platform integrations.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/project-sales.svg" width="100%" alt="Sales OS: multi-tenant CRM backend"/>
-<br/>
-<b>AUTONVIA Sales OS</b> — multi-tenant backend design, row-level security, validated APIs, and AI-supported sales operations.
-</td>
-<td width="50%" valign="top">
-<img src="./assets/project-edith.svg" width="100%" alt="EDITH: local AI assistant"/>
-<br/>
-<b>EDITH</b> — local models, voice interfaces, persistent memory, and desktop automation foundations.
-</td>
-</tr>
-</table>
-</div>
+<p align="center"><sub>Illustrative concept artwork • Interfaces, metrics, test results, and connection statuses shown in the artwork are fictional examples, not verified product screenshots or production claims.</sub></p>
 
-> **Engineering status:** The four product repositories above are private. Features described here are implemented or tested foundations, **not** claims of complete production readiness. Public case studies and reproducible demonstrations are being prepared.
+**Current project stages:** AI Workforce — active development · Social Studio — working staging · Sales OS — in verification · EDITH — functional prototype. The source repositories remain private; public case studies and reproducible evidence will be shared separately.
 
 ### `03` &nbsp; PUBLIC / CODE YOU CAN INSPECT
 
