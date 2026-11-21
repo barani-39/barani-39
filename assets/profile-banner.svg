@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Baranidharan T S — Software Engineering and Applied AI</title>
+  <desc id="desc">Dark navy technical banner with cyan and violet highlights, software engineering text, and a schematic network graphic.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08111f"/><stop offset="1" stop-color="#101a32"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#66e6f5"/><stop offset="1" stop-color="#a18dff"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#4354dc" stop-opacity=".28"/><stop offset="1" stop-color="#4354dc" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#526b94" stroke-opacity=".13" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="310" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="310" rx="18" fill="url(#grid)"/>
+  <ellipse cx="1020" cy="135" rx="360" ry="240" fill="url(#glow)"/>
+  <path d="M0 305H1200" stroke="url(#accent)" stroke-width="5"/>
+  <rect x="54" y="42" width="11" height="11" rx="2" fill="#65dbed"/>
+  <text x="76" y="52" fill="#9db6d6" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="2.8">AUTONVIA  /  ENGINEERING</text>
+  <text x="52" y="130" fill="#f3f8ff" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-.6">Baranidharan T S</text>
+  <rect x="53" y="154" width="395" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="52" y="198" fill="#b4c9e7" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing=".4">Software Engineering  ·  Applied AI</text>
+  <text x="52" y="236" fill="#85a2c5" font-family="Segoe UI, Arial, sans-serif" font-size="16">BACKEND SYSTEMS   /   AGENT WORKFLOWS   /   SAAS</text>
+  <text x="53" y="278" fill="#6f8dab" font-family="Consolas, Courier New, monospace" font-size="13">// build with purpose. verify the behavior.</text>
+  <g fill="none" stroke-width="1.8">
+    <path d="M777 86L855 55 937 92 1016 54 1102 102" stroke="#67e3f0" stroke-opacity=".42"/>
+    <path d="M777 86L807 177 910 155 937 92 1045 185 1102 102" stroke="#98a6fa" stroke-opacity=".45"/>
+    <path d="M807 177L885 251 996 242 1045 185 1123 235" stroke="#67e3f0" stroke-opacity=".36"/>
+    <path d="M855 55L910 155 1016 54 1045 185 996 242 937 92" stroke="#596edb" stroke-opacity=".38"/>
+  </g>
+  <g fill="#0b2035" stroke="#6be0ed" stroke-width="2">
+    <circle cx="777" cy="86" r="7"/><circle cx="855" cy="55" r="7"/><circle cx="807" cy="177" r="7"/>
+    <circle cx="910" cy="155" r="9"/><circle cx="996" cy="242" r="7"/><circle cx="1102" cy="102" r="7"/>
+  </g>
+  <g fill="#0d1b39" stroke="#ac9aff" stroke-width="2">
+    <circle cx="937" cy="92" r="9"/><circle cx="1016" cy="54" r="7"/><circle cx="1045" cy="185" r="9"/>
+    <circle cx="885" cy="251" r="7"/><circle cx="1123" cy="235" r="7"/>
+  </g>
+  <rect x="788" y="115" width="275" height="37" rx="8" fill="#0b142b" stroke="#395479" stroke-opacity=".85"/>
+  <circle cx="805" cy="133" r="4" fill="#68dbe9"/>
+  <text x="817" y="138" fill="#a9c1dc" font-family="Consolas, Courier New, monospace" font-size="13">system.build(verify=True)</text>
+</svg>
