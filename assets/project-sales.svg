@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="248" viewBox="0 0 600 248" role="img" aria-label="Sales OS technical project card">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1727"/><stop offset="1" stop-color="#11162b"/></linearGradient>
+<radialGradient id="g"><stop stop-color="#b59cff" stop-opacity=".23"/><stop offset="1" stop-color="#b59cff" stop-opacity="0"/></radialGradient>
+<pattern id="p" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#729bc1" stroke-opacity=".09"/></pattern></defs>
+<rect x="1" y="1" width="598" height="246" rx="18" fill="url(#b)" stroke="#b59cff" stroke-opacity=".47" stroke-width="2"/>
+<rect width="598" height="246" rx="18" fill="url(#p)"/>
+<ellipse cx="480" cy="125" rx="190" ry="140" fill="url(#g)"/>
+<path d="M28 23H92" stroke="#b59cff" stroke-width="3" stroke-linecap="round"/>
+<text x="28" y="52" font-family="Consolas,monospace" font-size="12" letter-spacing="1.4" fill="#b59cff">03 / BACKEND SYSTEMS</text>
+<text x="28" y="105" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="#f2f6ff">Sales OS</text>
+<text x="29" y="140" font-family="Arial,sans-serif" font-size="16" fill="#aec1d9">Multi-tenant CRM architecture,</text>
+<text x="29" y="162" font-family="Arial,sans-serif" font-size="16" fill="#aec1d9">authorization and secure data access</text>
+<rect x="27" y="191" width="253" height="32" rx="9" fill="#1b2a40" stroke="#39506a"/>
+<circle cx="45" cy="207" r="4" fill="#b59cff"/>
+<text x="59" y="212" font-family="Consolas,monospace" font-size="12" fill="#d1e0f1">IN VERIFICATION · PRIVATE</text>
+<rect x="340" y="79" width="208" height="119" rx="12" fill="#111c35" stroke="#7251a6"/>
+<rect x="357" y="97" width="54" height="84" rx="8" fill="#2e2352" stroke="#996aff"/>
+<rect x="418" y="97" width="54" height="84" rx="8" fill="#233359" stroke="#5f96f5"/>
+<rect x="479" y="97" width="54" height="84" rx="8" fill="#203a50" stroke="#4ca7d4"/>
+<rect x="365" y="108" width="38" height="8" rx="4" fill="#bd9cf9"/><rect x="426" y="108" width="38" height="8" rx="4" fill="#8caeff"/><rect x="487" y="108" width="38" height="8" rx="4" fill="#79c8ef"/>
+<g stroke="#ffffff" stroke-opacity=".18" stroke-width="4"><path d="M365 128h38M365 141h28M426 128h38M426 141h23M487 128h38M487 141h31"/></g>
+<text x="445" y="61" text-anchor="middle" font-size="12" fill="#c9aefc" font-family="Consolas,monospace">TENANT-ISOLATED PIPELINE</text></svg>
