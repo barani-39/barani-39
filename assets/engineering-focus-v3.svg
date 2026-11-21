@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="t d">
+<title id="t">Engineering focus areas</title><desc id="d">Three focus cards: Product Engineering, Applied AI, and Security and Reliability.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081321"/><stop offset="1" stop-color="#16122d"/></linearGradient>
+<linearGradient id="neon"><stop stop-color="#64e9f5"/><stop offset="1" stop-color="#a98bff"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#637eac" stroke-opacity=".09"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="228" rx="16" fill="url(#bg)" stroke="#4b6385" stroke-opacity=".55"/>
+<rect x="1" y="1" width="1198" height="228" rx="16" fill="url(#grid)"/>
+<rect x="24" y="23" width="366" height="185" rx="14" fill="#10263a" stroke="#2b6877"/>
+<rect x="417" y="23" width="366" height="185" rx="14" fill="#1a1f3f" stroke="#64539d"/>
+<rect x="810" y="23" width="366" height="185" rx="14" fill="#13263a" stroke="#37627f"/>
+<g font-family="Arial, sans-serif">
+<text x="48" y="59" fill="#6feaf5" font-size="15" letter-spacing="1.5">01 / PRODUCT ENGINEERING</text>
+<text x="48" y="104" fill="#f2f7ff" font-size="30" font-weight="700">SaaS &amp; APIs</text>
+<text x="48" y="140" fill="#9ab7d1" font-size="18">Full-stack workflows</text><text x="48" y="166" fill="#9ab7d1" font-size="18">and dependable backends</text>
+<text x="441" y="59" fill="#bbabff" font-size="15" letter-spacing="1.5">02 / APPLIED AI</text>
+<text x="441" y="104" fill="#f2f7ff" font-size="30" font-weight="700">Agents &amp; Local AI</text>
+<text x="441" y="140" fill="#b4acd9" font-size="18">Tool-driven systems</text><text x="441" y="166" fill="#b4acd9" font-size="18">with controlled execution</text>
+<text x="834" y="59" fill="#82c9ff" font-size="15" letter-spacing="1.5">03 / ENGINEERING QUALITY</text>
+<text x="834" y="104" fill="#f2f7ff" font-size="30" font-weight="700">Security &amp; Tests</text>
+<text x="834" y="140" fill="#a5bddb" font-size="18">Isolation, verification,</text><text x="834" y="166" fill="#a5bddb" font-size="18">and failure recovery</text>
+</g>
+<g opacity=".55" fill="none" stroke-width="2.5">
+<path d="M309 92h43v33h-43z M319 105h23 M319 114h16 M314 132h32" stroke="#65e5f3"/>
+<path d="M707 89l22 15-22 16-22-16z M707 89v-20M707 120v19 M674 104h-13 M740 104h13" stroke="#ac9bff"/>
+<path d="M1100 77l29 11v28c0 25-15 39-29 47-16-9-29-24-29-47V88z M1087 116l9 10 18-24" stroke="#85c8ff"/>
+</g>
+</svg>
